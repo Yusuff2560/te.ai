@@ -22,5 +22,6 @@ This project is licensed under the MIT License. See `LICENSE` file for details.
 
 ## 📦 Installation
 
-The necessary files have not yet been installed.
+> ⚠️ Te.AI is currently in the concept and planning stage. Development of the core AI engine is in progress.
+
 
