@@ -24,4 +24,61 @@ This project is licensed under the MIT License. See `LICENSE` file for details.
 
 > ⚠️ Te.AI is currently in the concept and planning stage. Development of the core AI engine is in progress.
 
+# Te.AI
+
+Te.AI is an innovative AI assistant designed to help you with a wide range of tasks and provide a smarter way of interacting with technology.
+
+## 🧪 Usage
+
+Simply run the app:
+
+```bash
+python main.py
+Then start chatting!
+
+Example:
+You: Hey Te, what’s the weather like today?
+Te: It’s currently 18°C and sunny in your location ☀️
+
+
+Voice-to-text & text-to-speech modules
+
+Dynamic memory system
+
+WebSocket-based remote control interface
+
+Cross-device syncing
+
+Machine-learning powered self-adaptation system
+
+A major leap is coming...
+
+New neural core architecture
+
+Improved context switching
+
+Real-time emotional recognition
+
+Embedded offline LLM support
+
+More integrations & developer API
+
+
+🚨 Stay tuned! Te.AI v2.0 is on the horizon and it’s going to change how you interact with machines.
+
+Follow the journey on GitHub.
+
+🤝 Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change or improve.
+
+📜 License
+This project is licensed under the MIT License. See LICENSE file for more info.
+
+✉️ Contact
+For questions, feedback, or collaboration offers:
+
+📧 Yusuf Talha Göktaş – [goktasyusuftalha@gmail.com]
+📍 Niğde, Türkiye
+
+Made with ❤️ by Te for everyone who dreams of a smarter future.
 
