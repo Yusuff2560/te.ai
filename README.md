@@ -1,4 +1,4 @@
-# 🤖 Te.AI — Çığır Açan Yeni Nesil Kişisel Yapay Zekâ Asistanı
+# 🤖 Te.AI — Yeni Nesil Kişisel Yapay Zekâ Asistanı
 
 **Te.AI**, yapay zekâ alanında paradigma değiştirecek bir vizyonla hayata geçirilmiş, deneysel ve sürekli evrim geçiren bir projedir. Amacımız, insanlarla doğal, sezgisel, güvenli ve benzersiz derecede özelleştirilebilir bir etkileşim kurabilen, öğrenme yeteneği yüksek ve bağlamsal anlayışı derin bir kişisel yapay zekâ asistanı geliştirmektir. Te.AI, kullanıcıların sadece günlük rutinlerini kolaylaştırmakla kalmayıp, aynı zamanda karmaşık problemleri çözmelerine, yeni bilgiler keşfetmelerine ve yaratıcılıklarını en üst düzeye çıkarmalarına yardımcı olmayı hedeflemektedir.
 
