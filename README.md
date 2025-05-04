@@ -2,7 +2,7 @@
 
 Te.AI is an experimental and evolving artificial intelligence assistant, designed to understand, learn, and interact with humans in a natural, secure, and highly customizable way.
 
-> ⚠️ This project is currently under active development. You are viewing **Te.AI v1.x**.  
+> ⚠️ This project is currently under active development. You are viewing **Te.AI v1.0**.  
 > 🚨 Stay tuned for the upcoming release of **Te.AI v2.0**, which will redefine personal AI interaction.
 
 ---
