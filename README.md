@@ -6,6 +6,8 @@ Te.AI is an experimental and evolving artificial intelligence assistant, designe
 > 🚨 Stay tuned for the upcoming release of **Te.AI v2.0**, which will redefine personal AI interaction.
 
 ---
+## 📜 License  
+This project is licensed under the MIT License. See `LICENSE` file for details.
 
 ## 🚀 Features
 
